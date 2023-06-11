@@ -181,7 +181,7 @@ TON = 3.5 TOFF=0.5 TOTAL TIME = 4 FREQUENCY = 1/(TOTAL TIME) =250Hz
 
 
 ## Result :
-A PWM Signal is generated using the following frequency and various duty cycles are simulated 
+A PWM Signal is generated using the following frequency and various duty cycles are simulated.
 
 
 
