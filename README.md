@@ -97,9 +97,11 @@ Step14. click on debug and simulate using simulation as shown below
 
 ## STM 32 CUBE PROGRAM :
 
-`
+```
 DEVELOPED BY: Gayathri A
 REG NO: 212221230028
+```
+```
 #include "main.h"
 TIM_HandleTypeDef htim2;
 void SystemClock_Config(void);
@@ -150,7 +152,7 @@ void SystemClock_Config(void)
     Error_Handler();
   }
 }
-`
+```
 
 
 
